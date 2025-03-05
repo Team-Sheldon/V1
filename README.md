@@ -1,3 +1,7 @@
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/1iw4h.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v2/monitor/1iw4h.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/1iw4h.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
+
 # Team Sheldon - FTC & FRC Robotics Website
 
 Welcome to the official Team Sheldon website! This site showcases our robotics team's journey, projects, and achievements in FTC (FIRST Tech Challenge) and FRC (FIRST Robotics Competition) at Sheldon College.
