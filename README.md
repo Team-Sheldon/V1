@@ -21,7 +21,7 @@ This website is hosted using **GitHub Pages**.
 
 
 ## 📧 Contact Us
-For any inquiries, reach out via team-sheldon@outlook.com or visit our [official website](team-sheldon.github.io).
+For any inquiries, reach out via team-sheldon@outlook.com or visit our [official website](team-sheldon.me).
 
 ---
 
